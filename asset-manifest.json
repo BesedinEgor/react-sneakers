@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BesedinEgor/react-sneakers/static/css/main.ebba22ee.css",
+    "main.js": "/BesedinEgor/react-sneakers/static/js/main.5e018cdc.js",
+    "index.html": "/BesedinEgor/react-sneakers/index.html",
+    "main.ebba22ee.css.map": "/BesedinEgor/react-sneakers/static/css/main.ebba22ee.css.map",
+    "main.5e018cdc.js.map": "/BesedinEgor/react-sneakers/static/js/main.5e018cdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebba22ee.css",
+    "static/js/main.5e018cdc.js"
+  ]
+}
